@@ -39,3 +39,8 @@ body{
   background: var(--mainDark);
   color: var(--mainWhite);
 }
+
+.cart-icon{
+  cursor: pointer;
+  color: var(--mainYellow);
+}
